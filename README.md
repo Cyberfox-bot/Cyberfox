@@ -25,15 +25,15 @@ Cyberfox will play any music from youtube/soundcloud/twitch. and has no limit~~u
 Cyberfox will have games such as TicTacToe and GuessTheNumber and 8Ball and other features. These features haven't been added yet, but will be added real soon in the future.
 
 
-## [Cyberfox Wiki]()
-ℹ [About Cyberfox]()  
-🦊 [Getting Started]()  
-🔨 [Moderator Guide]()  
-🚩 [Strikes]()  
-🛡 [Auto-Moderation]()  
-📜 [Full Command Reference]()  
-⚠ [Troubleshooting]()  
-📥 [Support Server]()
+## [Cyberfox Wiki](https://github.com/Cyberfox-bot/Cyberfox/wiki)
+ℹ [About Cyberfox](https://github.com/Cyberfox-bot/Cyberfox/wiki/About-Cyberfox)  
+🦊 [Getting Started](https://github.com/Cyberfox-bot/Cyberfox/wiki/Getting-Started)  
+🔨 [Moderator Guide](https://github.com/Cyberfox-bot/Cyberfox/wiki/Moderation-Guide)  
+🚩 [Strikes](https://github.com/Cyberfox-bot/Cyberfox/wiki/Strikes)  
+🛡 [Auto-Moderation](https://github.com/Cyberfox-bot/Cyberfox/wiki/Auto-moderation)  
+📜 [Full Command List](https://github.com/Cyberfox-bot/Cyberfox/wiki/Full-Command-List)  
+⚠ [Troubleshooting](https://github.com/Cyberfox-bot/Cyberfox/wiki/Troubleshooting)  
+📥 [Support Server](https://github.com/Cyberfox-bot/Cyberfox/wiki/Support-Server)
 
 
 ## How do I report a bug or suggest a feature?

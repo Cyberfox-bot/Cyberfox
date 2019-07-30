@@ -1,10 +1,5 @@
 # Cyberfox
-[![GitHub stars]()
-[![GuildCount]()
-[![GitHub license]()
-[![CodeFactor]()
-<br>
-[![Support]()
+
 
 
 ## Discord Moderation + Music + Enterainment Bot:

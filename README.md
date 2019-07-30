@@ -37,7 +37,7 @@ Cyberfox will have games such as TicTacToe and GuessTheNumber and 8Ball and othe
 
 
 ## How do I report a bug or suggest a feature?
-Feel free to open an issue with your bug report or feature request, with as many details as possible. If you'd like to write a feature, please open an issue first for discussion. For help with the bot, please see the wiki (linked above).
+Feel free to open an issue with your bug report or feature request, with as many details as possible. If you'd like to write a feature, please open an issue first for discussion. For help with Cyberfox, please see the wiki (linked above).
 
 
 ## Would cyberfox like to join my server?

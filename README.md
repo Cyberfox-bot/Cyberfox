@@ -3,6 +3,9 @@
 
 ## Cyberfox
 [![GuildCount](https://img.shields.io/badge/dynamic/json.svg?label=servers&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F240254129333731328&query=%24.guildCount&colorB=71A2B1)](https://discord.bots.gg/bots/356624940918898689)
+[![Support](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=shield)](https://discord.gg/0p9LSGoRLu6Pet0k)
+
+
 
 
 

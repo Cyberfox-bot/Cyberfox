@@ -1,3 +1,4 @@
+<img align="right" src="https://cdn.discordapp.com/attachments/356630542474805249/605831168310640661/cyberfox.png" height="200" width="200">
 # Cyberfox
 
 

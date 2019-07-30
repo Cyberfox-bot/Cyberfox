@@ -16,7 +16,7 @@
 ## Discord Moderation + Music + Enterainment Bot:
 
 ## Moderation
-Cyberfox is a bot designed to keep your server safe and your moderator team organized. His moderation and logging will keep track of your members and keep your moderators. His auto-moderator capabilities also allow him  to filter out certain types of behavior without need for human moderation. Cyber is designed to be fast and easy to setup.
+Cyberfox is a bot designed to keep your server safe and your moderator team organized. His moderation and logging will keep track of your members and keep your moderators. His auto-moderator capabilities also allow him  to filter out certain types of behavior without need for human moderation. Cyberfox is designed to be fast and easy to setup.
 
 ## Music
 Cyberfox will play any music from youtube/soundcloud/twitch. and has no limit~~unlike rythm~~ to music length or playlist size and has a fair skip queue.
